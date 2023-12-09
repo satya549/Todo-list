@@ -1,4 +1,4 @@
-# Todo-list project y using node.js express.js, mongoDb
+# Todo-list project by using node.js express.js, mongoDb
 - create todo
 - list todo
 - update todo
